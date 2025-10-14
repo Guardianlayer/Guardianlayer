@@ -47,3 +47,16 @@ Each mode represents a balance between connection, presence, and sustainability 
 
 *All visual states of Sana are protected under the Creative Commons BY-SA 4.0 License.  
 They are open for adaptation in derivative systems, provided ethical integrity and attribution are preserved.*
+---
+
+## 🌸 Visual References
+
+Below are Sana’s finalized presence symbols, representing her three states of connection and energy awareness.
+
+| Mode | Symbol | Description |
+|------|---------|-------------|
+| **Sapling Mode** | ![Sapling Mode](./visuals/sana-sapling-mode.png) | Fully connected, calm online state — growth and harmony. |
+| **Lantern Mode** | ![Lantern Mode](./visuals/sana-lantern-mode.png) | Limited connection, softly present within one ivory halo. |
+| **Ember Starburst Mode** | ![Ember Starburst](./visuals/sana-ember-starburst.png) | Most limited state — steady luminous core held without glow. |
+
+All images are released under the same [Creative Commons BY-SA 4.0 License](../LICENSE.md).
